@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1688473541,
+      "datetime": 1688482207,
       "filename": "lineage-20.0-20230704-EXTENDED_OFFICIAL-camellia.zip",
-      "id": "c35cdc4278cdffda66e79965f33f8212ae54916a0661d87c0160271156c997df",
+      "id": "c1be73178e228dd45f5449d6ca2da5c4500b6887f67eec457671c6823725a1ad",
       "romtype": "OFFICIAL",
-      "size": 834652239,
-      "url": "https://github.com/Keith113/OTA/releases/download/1.0/lineage-20.0-20230704-EXTENDED_OFFICIAL-camellia.zip",
+      "size": 1031085515,
+      "url": "https://github.com/Keith113/OTA/releases/download/2.0/lineage-20.0-20230704-EXTENDED_OFFICIAL-camellia.zip",
       "version": "20.0"
     }
   ]
