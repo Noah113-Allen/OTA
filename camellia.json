@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1689349179,
-      "filename": "DerpFest-13-Community-Tango-camellia-20230714-2110.zip",
-      "id": "7dce22c79730cebb1dd74680663fec3cf0b58de5c978f8e9d1108a93075b80d6",
-      "romtype": "Unofficial",
-      "size": 1526038115,
-      "url": "https://github.com/Keith113/OTA/releases/download/3.0/DerpFest-13-Community-Tango-camellia-20230714-2110.zip",
+      "datetime": 1689394422,
+      "filename": "DerpFest-13-Community-Tango-camellia-20230715-0946.zip",
+      "id": "557315700db441594bffde92d6e041877cd62e3e620e7b0ab47c61b2fd62e55c",
+      "romtype": "Community",
+      "size": 1526038366,
+      "url": "https://github.com/Keith113/OTA/releases/download/4.0/DerpFest-13-Community-Tango-camellia-20230715-0946.zip",
       "version": "13"
     }
   ]
